@@ -1,0 +1,193 @@
+1717625755973	geckodriver	INFO	Listening on 127.0.0.1:63846
+1717625759029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofilefvIcl5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717625759221	Marionette	INFO	Marionette enabled
+1717625759277	Marionette	INFO	Listening on port 63854
+WebDriver BiDi listening on ws://127.0.0.1:63847
+Read port: 63854
+1717625759438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63847/devtools/browser/c3930c36-c4c5-4d38-a1bf-ffccede4f831
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1717625790265	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+17625851317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileQ8iSQ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717625851549	Marionette	INFO	Marionette enabled
+1717625851605	Marionette	INFO	Listening on port 63944
+WebDriver BiDi listening on ws://127.0.0.1:63937
+Read port: 63944
+1717625851739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63937/devtools/browser/aefd07ac-d7d5-4120-90d8-6dd41bbd2385
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1717625864591	Marionette	INFO	Stopped listening on port 63944
+Dynamically enable window occlusion 1
+JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-92fc4c03.js, line 4: TypeError: can't access dead object
+1717625939788	geckodriver	INFO	Listening on 127.0.0.1:64016
+1717625942849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileBc7dtR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717625943038	Marionette	INFO	Marionette enabled
+1717625943080	Marionette	INFO	Listening on port 64024
+WebDriver BiDi listening on ws://127.0.0.1:64017
+Read port: 64024
+1717625943588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64017/devtools/browser/b2037340-9e46-4bb1-afbf-5668dc6e6504
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1717625973052	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1717626008821	geckodriver	INFO	Listening on 127.0.0.1:64083
+1717626011864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofile4X56x1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717626012066	Marionette	INFO	Marionette enabled
+1717626012117	Marionette	INFO	Listening on port 64092
+WebDriver BiDi listening on ws://127.0.0.1:64084
+Read port: 64092
+1717626012251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64084/devtools/browser/6523343f-6a02-4071-9550-7dfd80306ac0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1717626042076	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1717626205601	geckodriver	INFO	Listening on 127.0.0.1:64176
+1717626208668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileazPl7H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717626208847	Marionette	INFO	Marionette enabled
+1717626208887	Marionette	INFO	Listening on port 64184
+WebDriver BiDi listening on ws://127.0.0.1:64177
+Read port: 64184
+1717626208995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64177/devtools/browser/b0ccada5-948e-4744-893d-2ed6909052be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1717626239098	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1717626284725	Marionette	INFO	Stopped listening on port 64184
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js, line 1225: Script terminated by timeout at:
+@https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js:1225:301
+requestIdleCallback handler*y@https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js:625:198
+U<@https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js:237:36
+E<@https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js:588:468
+cC.prototype.dX@https://www.gstatic.com/recaptcha/releases/DH3nyJMamEclyfe-nztbfV8S/recaptcha__en.js:1221:269
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-92fc4c03.js, line 4: TypeError: can't access dead object
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
